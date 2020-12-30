@@ -1,1 +1,1 @@
-# BreastCancerClassification_-College_Project-
+# Breast Cancer Classification (College Project)
